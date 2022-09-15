@@ -1,0 +1,3 @@
+This is where data would be stored.
+
+The data from the LSTM for SSI study cannot be shared publicly as it contains protected health information (PHI).
